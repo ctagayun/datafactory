@@ -1,0 +1,9 @@
+{
+	"name": "veseris-adf-V2",
+	"location": "WestUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75a7eec0-2c51-42c6-b24d-03757258e758",
+		"tenantId": "961bafcf-d15a-4ba6-95a0-a680a7440d9f"
+	}
+}
