@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"packageLocation": {
-						"packagePath": "MoveDataSQLToBlob\\MoveDataSQLToBlob\\Package.dtsx",
+						"packagePath": "MoveDataSQLToBlob\\Projects\\MoveDataSQLToBlob\\Packages\\Package.dtsx",
 						"type": "SSISDB"
 					},
 					"connectVia": {
