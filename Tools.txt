@@ -1,0 +1,11 @@
+Free Azure Signup:
+https://azure.microsoft.com/en-us/free/
+
+Visual Studio:
+https://visualstudio.microsoft.com/downloads/
+
+SQL Server:
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Azure Feature Pack SSIS:
+https://docs.microsoft.com/en-us/sql/integration-services/azure-feature-pack-for-integration-services-ssis?view=sql-server-2017

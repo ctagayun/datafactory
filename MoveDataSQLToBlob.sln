@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MoveDataSQLToBlob", "MoveDataSQLToBlob\MoveDataSQLToBlob.dtproj", "{A1DD3901-F278-42F8-8B95-FA16708E44A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DD3901-F278-42F8-8B95-FA16708E44A0}.Development|Default.ActiveCfg = Development
+		{A1DD3901-F278-42F8-8B95-FA16708E44A0}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47553429-C9D8-4F49-9D38-F88FB6697E6C}
+	EndGlobalSection
+EndGlobal
